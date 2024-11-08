@@ -1,7 +1,6 @@
 "dunne"
-  - firstname: ["Emma", "E.", "Emma M.", "E. M.", "Emma Dunne"]
+  - firstname: ["Emma", "E.", "Emma M.", "E. M.", "Emma Dunne", "Emma M. Dunne"]
     url: https://emmadunne.github.io/
-
 
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
