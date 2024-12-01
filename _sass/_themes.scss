@@ -7,10 +7,10 @@
 :root {
   --global-bg-color: #ede7e3; /* replacing {$white-color} */
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
+  --global-text-color: #023047;
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #ffa62b; /* basically the main accent color */
-  --global-hover-color: #ffa62b;
+  --global-theme-color: #07a3f1; /* basically the main accent color */
+  --global-hover-color: #07a3f1;
   --global-hover-text-color: #{$white-color};
   --global-navbar-bg-color: #023047; /* added this line to allow for a different navbar background depending on the theme */
   --global-navbar-text-color: #ede7e3; /* custom add */
