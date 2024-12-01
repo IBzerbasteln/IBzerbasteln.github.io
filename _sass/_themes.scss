@@ -9,9 +9,10 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+  --global-theme-color: #{$green-color}; /* basically the main accent color */
+  --global-hover-color: #{green-color};
   --global-hover-text-color: #{$white-color};
+  --global-navbar-bg-color: #536872; /* added this line to allow for a different navbar background depending on the theme */
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -82,6 +83,7 @@ html[data-theme="dark"] {
   --global-theme-color: #{$vibrant-orange-color}; /* basically the main accent color */
   --global-hover-color: #{$light-orange-color};
   --global-hover-text-color: #{$white-color};
+  --global-navbar-bg-color: #{$grey-color-dark}; /* added this line to allow for a different navbar background depending on the theme */
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
