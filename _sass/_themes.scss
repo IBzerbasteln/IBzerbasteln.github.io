@@ -5,17 +5,17 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #ede7e3; /* replacing {$white-color} */
+  --global-bg-color: #{$blanco-color}; /* replacing {$white-color} */
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #023047;
+  --global-text-color: #{$nordic-noir-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #04699c; /* basically the main accent color */
-  --global-hover-color: #07a3f1;
+  --global-theme-color: #{$teal-color}; /* basically the main accent color */
+  --global-hover-color: #{$teal-color-light};
   --global-hover-text-color: #{$white-color};
-  --global-navbar-bg-color: #023047; /* added this line to allow for a different navbar background depending on the theme */
-  --global-navbar-text-color: #ede7e3; /* custom add */
-  --global-navbar-theme-color: #ffb703; /* custom add */
-  --global-navbar-hover-color: #{$white-color}; /* custom add */
+  --global-navbar-bg-color: #{$nordic-noir-color}; /* added this line to allow for a different navbar background depending on the theme */
+  --global-navbar-text-color: #{$blanco-color}; /* custom add */
+  --global-navbar-theme-color: #{$sunflower-mango-color}; /* custom add */
+  --global-navbar-hover-color: #{$cheesus-color}; /* custom add */
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
