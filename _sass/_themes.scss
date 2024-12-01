@@ -14,6 +14,8 @@
   --global-hover-text-color: #{$white-color};
   --global-navbar-bg-color: #023047; /* added this line to allow for a different navbar background depending on the theme */
   --global-navbar-text-color: #ede7e3; /* custom add */
+  --global-navbar-theme-color: #ffb703; /* custom add */
+  --global-navbar-hover-color: #{$white-color}; /* custom add */
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -86,6 +88,8 @@ html[data-theme="dark"] {
   --global-hover-text-color: #{$white-color};
   --global-navbar-bg-color: #{$grey-color-dark}; /* added this line to allow for a different navbar background depending on the theme */
   --global-navbar-text-color: #{$grey-color-light}; /* custom add */
+  --global-navbar-theme-color: #{$vibrant-orange-color}; /* custom add */ 
+  --global-navbar-hover-color: #{$light-orange-color}; /* custom add */
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
