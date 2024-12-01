@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: 'Times New Roman', Times, serif
 }
 
 hr {
@@ -67,10 +68,6 @@ blockquote {
     margin-bottom: 0;
   }
 
-body {
-  font-family: 'fa-brands-400.woff2';
-
-  } 
 
   /* Tips, warnings, and dangers blockquotes */
   &.block-tip {
