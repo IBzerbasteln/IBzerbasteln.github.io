@@ -5,14 +5,14 @@
 @use "sass:color";
 
 :root {
-  --global-bg-color: #{$white-color};
+  --global-bg-color: #ede7e3; /* replacing {$white-color} */
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$green-color}; /* basically the main accent color */
-  --global-hover-color: #{green-color};
+  --global-theme-color: #ffa62b; /* basically the main accent color */
+  --global-hover-color: #ffa62b;
   --global-hover-text-color: #{$white-color};
-  --global-navbar-bg-color: #536872; /* added this line to allow for a different navbar background depending on the theme */
+  --global-navbar-bg-color: #023047; /* added this line to allow for a different navbar background depending on the theme */
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
