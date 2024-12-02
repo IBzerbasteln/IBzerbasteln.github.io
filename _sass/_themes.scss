@@ -13,7 +13,7 @@
   --global-hover-color: #{$teal-color-light};
   --global-hover-text-color: #{$white-color};
   --global-navbar-bg-color: #{$nordic-noir-color}; /* added this line to allow for a different navbar background depending on the theme */
-  --global-navbar-text-color: #{$blanco-color}; /* custom add */
+  --global-navbar-text-color: #{$blanco-color}; /* custom add; note that in header.liquid I had to apply this color manually to my first name in the navigation bar using inline CSS */
   --global-navbar-theme-color: #{$sunflower-mango-color}; /* custom add */
   --global-navbar-hover-color: #{$cheesus-color}; /* custom add */
   --global-footer-bg-color: #{$grey-color-dark};
@@ -87,7 +87,7 @@ html[data-theme="dark"] {
   --global-hover-color: #{$light-orange-color};
   --global-hover-text-color: #{$white-color};
   --global-navbar-bg-color: #{$grey-color-dark}; /* added this line to allow for a different navbar background depending on the theme */
-  --global-navbar-text-color: #{$grey-color-light}; /* custom add */
+  --global-navbar-text-color: #{$grey-color-light}; /* custom add; note that in header.liquid I had to use an inline CSS style tag to make my first name readable in the header using #{$blanco-color}, the --global-navbar-text-color for light mode */
   --global-navbar-theme-color: #{$vibrant-orange-color}; /* custom add */ 
   --global-navbar-hover-color: #{$light-orange-color}; /* custom add */
   --global-footer-bg-color: #{$grey-color-light};
