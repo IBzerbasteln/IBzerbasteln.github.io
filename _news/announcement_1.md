@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lecture invitation to the *Muséum National d'Histoire Naturelle* (Paris).
+Lecture invitation to the Muséum National d'Histoire Naturelle (Paris).
