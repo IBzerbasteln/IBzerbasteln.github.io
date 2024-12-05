@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invitation to speak at the Muséum National</br>d'Histoire Naturelle (Paris).
+Invitation to speak at the Museum National</br>de Histoire Naturelle (Paris).
