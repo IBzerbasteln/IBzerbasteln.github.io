@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Lecture invitation to Paris.
+Invitation to speak at the Muséum National</br>d'Histoire Naturelle (Paris).
