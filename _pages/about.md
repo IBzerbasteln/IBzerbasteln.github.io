@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Unique expertise in the law of palaeontological objects
+subtitle: Exploring the law of palaeontological objects, human remains, museums, and cultural artifacts
 
 profile:
   align: right
