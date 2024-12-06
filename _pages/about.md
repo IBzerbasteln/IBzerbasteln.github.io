@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Unique expertise in the law of palaeontological objects
 
 profile:
   align: right
