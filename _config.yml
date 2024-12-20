@@ -316,7 +316,7 @@ scholar:
   last_name: [Stewens]
   first_name: [Paul, Paul P., Paul Philipp]
 
-  style: german-yearbook-of-international-law.csl # pick a style that uses in-text citations
+  style: bluebook-inline.csl # pick a style that uses in-text citations
   locale: en
 
   source: /_bibliography/
