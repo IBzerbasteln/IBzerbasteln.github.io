@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! I'm a PhD researcher with the Faculty of Law at Maastricht University and work on all legal questions that surround dinosaur fossils and other palaeontological objects. Issues that concern me include:
+- the extraction, ownership, and international movement of fossils;
+- the restitution of looted or stolen fossils;
+- the delimitation between cultural and natural artifacts; 
+- the legal classification of fossilised human remains;
+- and many more.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work mostly results in academic [publications](/ibzerbasteln/publications/) but I've contributed my specialist expertise to more accessible outlets as well, including [op-eds](https://undark.org/2024/04/25/opinion-academic-publishers-ukrainian-fossils-theft/), a [podcast](https://open.spotify.com/episode/16Qnd9HLb5P6zoeBqEov5l?si=52941a7a395843f6), and a [TEDx talk](https://youtu.be/pVf-5-Jl41s?) with over 20,000 views. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
