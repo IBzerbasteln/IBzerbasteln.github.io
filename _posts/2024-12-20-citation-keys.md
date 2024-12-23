@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Citations Keys for Personal Knowledge Management
+title: Using Citation Keys for Personal Knowledge Management
 date: 2024-12-20 20:01:00-0400
 description: Citation keys can level up reference organisation and academic writing in your Second Brain
 tags: Obsidian Zotero Pandoc citations academic-writing
