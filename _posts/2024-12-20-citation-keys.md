@@ -2,29 +2,20 @@
 layout: post
 title: Using Citations Keys for Personal Knowledge Management
 date: 2024-12-20 20:01:00-0400
-description: How to use citation keys can level up reference organisation and academic writing in your Second Brain
-tags:
-  - Obsidian
-  - Zotero
-  - Pandoc
-  - citations
-  - academic-writing
+description: Citation keys can level up reference organisation and academic writing in your Second Brain
+tags: Obsidian Zotero Pandoc citations academic-writing
 categories: PKMS
-thumbnail: assets/img/citekey.png
-featured: "false"
-related_posts: "false"
-related_publications: "false"
-citation: "false"
-tabs: "true"
+featured: true
+related_posts: false
+related_publications: false
+citation: false
+tabs: true
 toc:
-	beginning: true
+  beginning: true
 ---
-
-```markdown
 
 > This post details my use of citekeys in my personal knowledge management system using **Obsidian** and **Zotero**. In case you're unfamiliar with these two free programmes: [Zotero](https://www.zotero.org/) is a reference manager, and [Obsidian](https://obsidian.md/) is a tool that allows you to edit and link locally stored [Markdown](https://www.markdownguide.org/) files. For a more thorough introduction, check out [this video](https://www.youtube.com/watch?v=OUrOfIqvGS4).
 
-```
 
 # What Are Citations Keys, and Why Bother?
 When I started using Obsidian as a personal knowledge management system, I soon wanted to move my academic writing there, too. The distraction-free editor and the prospect of minimising my contact with Microsoft Word were as appealing back then as they are now. Like many of Obsidian's more advanced uses, how to do this wasn't all that evident to me as someone without a very strong technical background. It only really clicked for me when I watched [this amazing tutorial](https://www.youtube.com/watch?v=J86Pm62XM_Q) which I cannot recommend enough for anyone looking to get into academic writing in Obsidian.
@@ -47,7 +38,7 @@ What are these purposes, you ask? Keep reading...
 # Using Citation Keys I: File Management 
 Before we move into the Obsidian vault, I'd like to highlight another plugin for Zotero which makes my life a lot easier: **[Zotfile](https://zotfile.com/)**. Storing bibliographical information in Zotero is all fine and well but you will often want a `.pdf` alongside that information. Zotfile is here to help with the management of attachments in your Zotero library. The essential functionality for me is the "Rename and move"-feature which, unsurprisingly, allows you to automatically rename an attachment to a given reference in accordance with a custom rule and to move it to a custom directory. 
 
-My custom directory is the Attachments folder within my vault. For the file names, I have set up Zotfile in a way that renames the `.pdf` attachments with the citation key of the reference that they're attached to. To achieve this, open the ZotFile preferences and go to the "Renaming Rules" tab. Once here, go to the field "Format for all Item Types except Patents" and simply put \`{%b}`. 
+My custom directory is the Attachments folder within my vault. For the file names, I have set up Zotfile in a way that renames the `.pdf` attachments with the citation key of the reference that they're attached to. To achieve this, open the ZotFile preferences and go to the "Renaming Rules" tab. Once here, go to the field "Format for all Item Types except Patents" and simply put {% raw %}`{%b}`{% endraw %}. 
 
 Now, you can select any reference, right click, select the "Manage Attachments" option and click "Rename and move". The attached `.pdf` will be moved to the directory you specified and rename to the citation key. You can do this for single references but bulk renaming and moving is possible, too.
 
@@ -56,10 +47,10 @@ Even regardless of the renaming functionality, the bulk moving to another direct
 # Using Citation Keys II: Reference Notes in Obsidian
 Let's start looking into Obsidian. Here, the key plugin that works with citation keys is called **[Obsidian Citations Plugin](https://github.com/hans/obsidian-citation-plugin/)**. Once you specify the path of your `.bib` bibliography, the plugin allows you to create notes for specific references from your Zotero. Select `Citations: Open literature note` from the command pane, and the plugin will load your bibliography and allow you to select a reference to create a note for.
 
-In the plugin settings, you can specify the template for such a reference note. Importantly, the variables to choose from include `{{citekey}}` which I use for the file title of the reference note: `@{{citekey}}`. Here, it also comes in handy that I used ZotFile to rename the attached `.pdf` files to the citation key: I can exploit it for the template. 
+In the plugin settings, you can specify the template for such a reference note. Importantly, the variables to choose from include {% raw %}`{{citekey}}`{% endraw %} which I use for the file title of the reference note: {% raw %}`@{{citekey}}`{% endraw %}. Here, it also comes in handy that I used ZotFile to rename the attached `.pdf` files to the citation key: I can exploit it for the template. 
 
-- If you want, say, to embed the `.pdf` in your reference note, simply put `![[{{citekey}}.pdf]]` in your template. 
-- I'm using the **[Obsidian Annotator](https://github.com/elias-sundqvist/obsidian-annotator)** plugin to highlight my documents. This plugin requires frontmatter information which specifies the annotation target. So, I simply put `annotation-target:: "006 Attachments/{{citekey}}.pdf"` at the top of my template and I can start annotating immediately upon the creation of my note.
+- If you want, say, to embed the `.pdf` in your reference note, simply put {% raw %}`![[{{citekey}}.pdf]]`{% endraw %} in your template. 
+- I'm using the **[Obsidian Annotator](https://github.com/elias-sundqvist/obsidian-annotator)** plugin to highlight my documents. This plugin requires frontmatter information which specifies the annotation target. So, I simply put {% raw %}`annotation-target:: "006 Attachments/{{citekey}}.pdf"`{% endraw %} at the top of my template and I can start annotating immediately upon the creation of my note.
 
 The Obsidian Citations Plugin lets you specify a folder in which your reference notes will be created but just in case, you could also use **[Obsidian Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover)** and add a rule that all files whose name begins with an `@` are to be moved to a given folder.
 
@@ -90,14 +81,13 @@ This is a homemade solution, and I am afraid I lack the technical capabilities t
 Over time, I have discovered an ever-wider range of opportunities to exploit my use of citation keys which I totally did not have in mind when I first started using them to name my reference notes. I think these use cases that have emerged over the years show that consistency pays off: in the sense that you never know what a given structural feature could be useful for in the future. After all, you might not have to re-invent the wheel even in times of more expansive re-structuring; finding creative uses for the structure you already have might just be enough at times. 
 
 
-# Software and Plugins Used
+#### Software and Plugins Used
 
-```liquid
 {% tabs software %}
 
 {% tab software Obsidian %}
 
-	- Citations Plugin
+	- Citations
 	- Auto Note Mover
 	- Annotator
 	- Web Clipper (browser extension)
@@ -107,8 +97,8 @@ Over time, I have discovered an ever-wider range of opportunities to exploit my 
 {% tab software Zotero %}
 
 	- BetterBibTex
-	- ZotFiles
-	- Connetor (browser extension)
+	- Zotfile
+	- Connector (browser extension)
 
 {% endtab %}
 
@@ -119,4 +109,4 @@ Over time, I have discovered an ever-wider range of opportunities to exploit my 
 {% endtab %}
 
 {% endtabs %}
-```
+
