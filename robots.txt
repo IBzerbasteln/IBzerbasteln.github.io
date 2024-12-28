@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://IBzerbasteln.github.io/sitemap.xml
+Sitemap: https://paul-stewens.com/sitemap.xml
