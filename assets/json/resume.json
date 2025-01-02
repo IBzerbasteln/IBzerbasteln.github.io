@@ -4,7 +4,6 @@
     "label": "Researcher",
     "email": "paulphilippstewens@gmail.com",
     "url": "https://paul-stewens.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,7 +21,7 @@
   },
   "education": [
     {
-      "institution": "The Graduate Institute of International and Development Studies, Geneva, Switzerland",
+      "institution": "The Graduate Institute of International and Development Studies",
       "location": "Geneva, Switzerland",
       "url": "https://www.graduateinstitute.ch/",
       "area": "International Law",
@@ -32,21 +31,13 @@
       "score": "5.78/6.00",
       "thesis": "What’s In A Name: Legal Systems in Biological Nomenclature",
       "courses": [
-        "Transnational Law",
-        "The Theory and Practice of Treaty Interpretation",
-        "Génocide et responsabilité internationale",
-        "Droit de l'art et des biens culturels : aspects suisses et internationaux",
-        "Droit international de la protection des biens culturels",
-        "Situating International Law",
-        "History and Theory of International Law",
-        "Research Seminar on the Use of Force",
-        "International Criminal Law",
-        "Law without the State",
-        "International Moot Court"
+        "two-year programme at a bilingual institution",
+        "final grade: 5.78/6.00 ('excellent')",
+        "dissertation: 'What’s In A Name: Legal Systems in Biological Nomenclature'"
       ]
     },
     {
-      "institution": "Technische Universität Dresden, Dresden, Germany",
+      "institution": "Technische Universität Dresden",
       "location": "Dresden, Germany",
       "url": "https://tu-dresden.de/zis",
       "area": "International Relations",
@@ -57,81 +48,39 @@
       "thesis": "Pardoning War Criminals: The Trump Administration, the Duty to Prosecute, and the Duty to Protect Human Rights",
       "supervisor": "Prof. Dr. Dominik Steiger",
       "courses": [
-        "Public International Law I and II",
-        "Introduction to EU Law",
-        "International Humanitarian Law",
-        "International Organisations Law",
-        "European and International Human Rights Protection",
-        "International Economic Law",
-        "United Nations System",
-        "Critical Theories of Law",
-        "Legal Writing",
-        "Introduction to Political Theory",
-        "Statistics I and II",
-        "Introduction to International Relations",
-        "International Organisations and Regimes",
-        "International Political Economy",
-        "Weak and Failing Statehood",
-        "Introduction to Peace and Conflict Studies",
-        "Concepts and Theories in International Relations",
-        "Introduction to Economics",
-        "Microeconomics I",
-        "Macroeconomics I",
-        "Economy of the European Integration",
-        "International Trade: Theory and Policy",
-        "Econometrics I",
-        "Interdisciplinary Introduction",
-        "Current Issues in International Relations",
-        "Interdisciplinary Seminar: Global Risks",
-        "English for International Relations",
-        "Russian",
-        "Italian"
+        "highly competitive interdisciplinary programme",
+        "final grade: 1.2 ('very good')",
+        "dissertation: 'Pardoning War Criminals: The Trump Administration, the Duty to Prosecute, and the Duty to Protect Human Rights'"
       ]
     },
     {
-      "institution": "Moscow State Institute of International Relations, Moscow, Russia",
-      "location": "Moscow, Russia",
+      "institution": "Moscow State Institute of International Relations",
+      "location": "Tallinn, Estonia",
       "url": "https://www.mgimo.ru/en/",
       "area": "International Relations",
       "studyType": "Exchange Semester",
       "startDate": "2021-08-01",
-      "endDate": "2022-01-01",
-      "courses": [
-        "Armed Conflicts in the 21st Century",
-        "World Economy",
-        "International Economic Relations",
-        "Cases in International Law",
-        "Russian language classes"
-      ]
+      "endDate": "2022-01-01"
     },
     {
-      "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany",
+      "institution": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
       "location": "Erlangen, Germany",
-      "url": "https://www.fau.eu/",
+      "url": "https://www.fau.de/",
       "area": "Political Science and Public Law",
       "studyType": "Bachelor of Arts (unfinished)",
       "startDate": "2017-10-01",
-      "endDate": "2018-09-01",
-      "courses": [
-        "Introduction to Law for Political Scientists",
-        "Constitutional Law",
-        "Fundamental Rights",
-        "Formal Logic for Lawyers",
-        "Philosophy of Science and Political Methodology",
-        "Introduction to Political Science",
-        "Regional Studies: East Asia",
-        "Regional Studies: Middle East",
-        "The Political System of the European Union",
-        "Political Systems in East Asia",
-        "The Political System of Germany",
-        "Political Systems in the West",
-        "Advanced Academic Writing",
-        "French",
-        "Spanish"
-      ]
+      "endDate": "2018-09-01"
     }
   ],
   "work": [
+    {
+      "name": "Maastricht University - Department of Criminal Law and Criminology",
+      "position": "PhD Researcher",
+      "url": "https://www.maastrichtuniversity.nl/pp-stewens",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "Tentative dissertation title: 'Bones of Contention: Mapping the Odd Interactions of Law With Palaeontological objects'"
+    },
     {
       "name": "Canvas Art Law",
       "position": "Researcher",
@@ -145,7 +94,7 @@
       "position": "Grading Assistant",
       "url": "https://www.uni-erfurt.de/en/faculty-of-economics-law-and-social-sciences/fields-of-study/law/administrative-law-and-public-international-law",
       "startDate": "2023-07-01",
-      "endDate": "Present",
+      "endDate": "2024-08-01",
       "summary": "Grading exams and papers for courses in International Law and Introduction to Legal Research in Public Law using Wiseflow software."
     },
     {
@@ -162,12 +111,7 @@
       "url": "https://www.maastrichtuniversity.nl/news/introducing-guest-researcher-paul-p-stewens",
       "startDate": "2022-05-01",
       "endDate": "2022-07-01",
-      "summary": "Shadowed Dr. Donna Yates (Associate Professor of Criminology), and contributed to research articles for peer review. Attended academic events and meetings, and presented research.",
-      "highlights": [
-        "Shadowed Dr. Donna Yates, Associate Professor of Criminology",
-        "Prepared two articles for submission to peer-review",
-        "Presented research at Department Meeting"
-      ]
+      "summary": "Shadowed Dr. Donna Yates (Associate Professor of Criminology), and contributed to research articles for peer review. Attended academic events and meetings, and presented research to the Department community."
     },
     {
       "name": "Tallinn University of Technology - Department of Geology",
@@ -191,10 +135,7 @@
       "url": "https://www.ifhv.de/",
       "startDate": "2021-04-01",
       "endDate": "2021-06-01",
-      "summary": "Provided editing support for international law journals and conducted literature research for resident researchers.",
-      "highlights": [
-        "Published two pieces on Völkerrechtsblog"
-      ]
+      "summary": "Provided editing support for international law journals and conducted literature research for resident researchers."
     },
     {
       "name": "Technische Universität Dresden - Chair for International Law, European Law and Public Law",
@@ -205,19 +146,14 @@
       "summary": "Assisted research activities, prepared course materials, and contributed to teaching and administrative tasks at the Chair."
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "awards": [
+    {
+      "title": "2024 Pierre Lalive and John Henry Merryman Fellowship in Art and Cultural Heritage Law",
+      "date": "2024-11-08",
+      "awarder": "International Cultural Property Society, Art-Law Centre of the University of Geneva, and LALIVE Geneva",
+      "url": "",
+      "summary": "Fellowship valued at CHF 6,000 for a research stay at the University of Geneva, awarded for my paper ''Ubirajara' and Irritator Belong to Brazil: Achieving Fossil Returns under German Private Law'"
+    },
     {
       "title": "Paper of the Month of Cambridge University Press - History, Classics and Archaeology",
       "date": "2024-04-22",
@@ -261,86 +197,54 @@
       "summary": "Awarded first prize in the German National Foreign Language Competition with English, Spanish, French, and Latin; subsequent acceptance into the German National Academic Foundation."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Public Speaking",
+      "level": "proficiency",
+      "icon": "fa-regular fa-comment"
+    },
+    {
+      "name": "Obsidian",
+      "icon": "fa-solid fa-diagram-project"
+    },
+    {
+      "name": "Reference Managers",
+      "icon": "fa-solid fa-book-bookmark",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Zotero",
+        "Citavi"
       ]
+    },
+    {
+      "name": "Microsoft Office",
+      "icon": "fa-brands fa-microsoft",
+      "keywords": [
+        "Microsoft Word",
+        "Microsoft Powerpoint",
+        "Microsoft Teams",
+        "Microsoft Outlook"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Genocide Alert e.V.",
+      "location": "Berlin, Germany",
+      "position": "Chairman",
+      "url": "https://www.genocide-alert.de",
+      "startDate": "2024-07-01",
+      "endDate": "Present",
+      "summary": "Executive leader of Germany's only NGO active in lobbying and awareness-raising for the prevention of mass atrocities; prior responsibilities within the organisation:",
+      "highlights": ["Leader of the working group (since November 2021)", "Deputy Chairman (March 2022 - June 2024", "Member of the Working Group (January 2018 - October 2021)"]
+    },
+    {
+      "organization": "Internationale Beziehungen Dresden e.V.",
+      "location": "Dresden, Germany",
+      "position": "Treasurer",
+      "url": "https://internationale-beziehungen.de",
+      "startDate": "2018-12-01",
+      "endDate": "2019-12-01",
+      "summary": "Management of the international relations student union’s funds, membership administration, planning and carrying out both leisure and substantial events"
     }
   ],
   "languages": [
@@ -373,30 +277,6 @@
       "language": "Italian",
       "fluency": "A2",
       "icon": "fa-solid fa-language"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
