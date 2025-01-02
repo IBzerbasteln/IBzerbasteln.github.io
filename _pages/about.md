@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! I'm a PhD researcher with the Faculty of Law at Maastricht University and work on **all legal questions that surround dinosaur fossils and other palaeontological objects**. Issues that concern me include:
+Welcome to my website! I'm a [PhD researcher](https://www.maastrichtuniversity.nl/pp-stewens) with the Faculty of Law at Maastricht University and work on **all legal questions that surround dinosaur fossils and other palaeontological objects**. Issues that concern me include:
 - the extraction, ownership, and international movement of fossils;
 - the restitution of looted or stolen fossils;
 - the delimitation between cultural and natural artifacts; 
