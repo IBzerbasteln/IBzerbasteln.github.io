@@ -21,6 +21,15 @@
   },
   "education": [
     {
+      "institution": "Maastricht University",
+      "location": "Maastricht, Netherlands",
+      "url": "https://maastrichtuniversity.nl",
+      "area": "Tentative dissertation title: 'Bones of Contention: Mapping the Odd Interactions of Law with Palaeontological Objects'",
+      "studyType": "PhD",
+      "startDate": "2025-01-01",
+      "endDate": "Present"
+    },
+    {
       "institution": "The Graduate Institute of International and Development Studies",
       "location": "Geneva, Switzerland",
       "url": "https://www.graduateinstitute.ch/",
@@ -56,7 +65,7 @@
     {
       "institution": "Moscow State Institute of International Relations",
       "location": "Tallinn, Estonia",
-      "url": "https://www.mgimo.ru/en/",
+      "url": "https://english.mgimo.ru/",
       "area": "International Relations",
       "studyType": "Exchange Semester",
       "startDate": "2021-08-01",
@@ -74,12 +83,11 @@
   ],
   "work": [
     {
-      "name": "Maastricht University - Department of Criminal Law and Criminology",
+      "name": "Maastricht University – Department of Criminal Law and Criminology",
       "position": "PhD Researcher",
       "url": "https://www.maastrichtuniversity.nl/pp-stewens",
       "startDate": "2025-01-01",
-      "endDate": "Present",
-      "summary": "Tentative dissertation title: 'Bones of Contention: Mapping the Odd Interactions of Law With Palaeontological objects'"
+      "endDate": "Present"
     },
     {
       "name": "Canvas Art Law",
@@ -90,7 +98,7 @@
       "summary": "Research and policy work on natural history objects, conservation, and human remains."
     },
     {
-      "name": "University of Erfurt - Assistant Professorship of Public International Law and International Administrative Law",
+      "name": "University of Erfurt – Assistant Professorship of Public International Law and International Administrative Law",
       "position": "Grading Assistant",
       "url": "https://www.uni-erfurt.de/en/faculty-of-economics-law-and-social-sciences/fields-of-study/law/administrative-law-and-public-international-law",
       "startDate": "2023-07-01",
@@ -106,7 +114,7 @@
       "summary": "Reviewed an abstract submission for the virtual congress."
     },
     {
-      "name": "University of Maastricht - Maastricht Centre for Arts and Culture, Conservation and Heritage",
+      "name": "University of Maastricht – Maastricht Centre for Arts and Culture, Conservation and Heritage",
       "position": "Visiting Researcher",
       "url": "https://www.maastrichtuniversity.nl/news/introducing-guest-researcher-paul-p-stewens",
       "startDate": "2022-05-01",
@@ -114,7 +122,7 @@
       "summary": "Shadowed Dr. Donna Yates (Associate Professor of Criminology), and contributed to research articles for peer review. Attended academic events and meetings, and presented research to the Department community."
     },
     {
-      "name": "Tallinn University of Technology - Department of Geology",
+      "name": "Tallinn University of Technology – Department of Geology",
       "position": "Intern",
       "url": "https://taltech.ee/en/department-geology",
       "startDate": "2022-02-01",
@@ -130,7 +138,7 @@
       "summary": "Participated in an expert-led group to identify issues in fossil theft and proposed solutions for a workshop on on 'Social Justice in Palaeontology: Case Studies & Future Actions.'"
     },
     {
-      "name": "Ruhr University Bochum - Institute for International Law of Peace and Armed Conflict",
+      "name": "Ruhr University Bochum – Institute for International Law of Peace and Armed Conflict",
       "position": "Intern",
       "url": "https://www.ifhv.de/",
       "startDate": "2021-04-01",
@@ -138,7 +146,7 @@
       "summary": "Provided editing support for international law journals and conducted literature research for resident researchers."
     },
     {
-      "name": "Technische Universität Dresden - Chair for International Law, European Law and Public Law",
+      "name": "Technische Universität Dresden – Chair for International Law, European Law and Public Law",
       "position": "Student Research Assistant",
       "url": "https://tu-dresden.de/gsw/phil/irget/jfoeffl9",
       "startDate": "2019-07-01",
@@ -155,7 +163,7 @@
       "summary": "Fellowship valued at CHF 6,000 for a research stay at the University of Geneva, awarded for my paper ''Ubirajara' and Irritator Belong to Brazil: Achieving Fossil Returns under German Private Law'"
     },
     {
-      "title": "Paper of the Month of Cambridge University Press - History, Classics and Archaeology",
+      "title": "Paper of the Month of Cambridge University Press – History, Classics and Archaeology",
       "date": "2024-04-22",
       "awarder": "Cambridge University Press",
       "url": "https://www.facebook.com/permalink.php?story_fbid=872069814963176&id=377904957447",
@@ -166,7 +174,7 @@
       "date": "2024-01-19",
       "awarder": "International Symposium on Cultural Heritage in War and Peace",
       "url": "https://example.com",
-      "summary": "Awarded for my manuscript 'A Classifiction Unearthed: The History of Palaeontological Objects as Cultural Heritage in International Law', honouring its 'innovative profile of research, outstanding presentation and excellent content.'"
+      "summary": "Awarded for my manuscript 'A Classifiction Unearthed: The History of Palaeontological Objects as Cultural Heritage in International Law', honouring an 'innovative profile of research, outstanding presentation and excellent content.'"
     },
     {
       "title": "ERASMUS+ Scholarship ",
