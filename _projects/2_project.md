@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Illicit Fossil Trafficking
+description: how palaeontological objects end up in places where they don't belong
+img: assets/img/publication_preview/irritator-challengeri.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

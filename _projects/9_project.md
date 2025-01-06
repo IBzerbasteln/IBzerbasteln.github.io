@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Personal Knowledge Management
+description: processing, storing, and future-proofing information
+img: assets/img/obsidian-graph.png
+importance: 1
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: History of the Palaeosciences
+description: palaeontology and palaeoanthropology in their historical context
+img: assets/img/crystal-palace-dinosaurs.jpg
+importance: 5
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 10
-description: with background image
-img: assets/img/12.jpg
+title: Legal Regulation of Palaeontology
+description: an inquiry into some unlikely and curious interactions
+img: assets/img/publication_preview/black-rex.jpg
 importance: 1
-category: work
+category: academic
 related_publications: true
 ---
 

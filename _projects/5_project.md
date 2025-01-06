@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: The Law of Human Remains
+description: what is a human being, how does law protect their mortal remains, and why?
+img: assets/img/kabwe-skull.jpg
 importance: 3
-category: fun
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
