@@ -2,7 +2,7 @@
 layout: page
 title: projects and interests
 permalink: /projects/
-description: here are some of the topics that I work on or at the very least find interesting enough to hope to work on them at some point
+description:
 nav: true
 nav_order: 3
 display_categories: [academic, work, personal]
