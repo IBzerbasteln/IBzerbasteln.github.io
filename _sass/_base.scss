@@ -14,15 +14,14 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: 'Lato', sans-serif
+  font-family: "Lato", sans-serif;
 }
 
 h1,
 h2,
-h3
- {
+h3 {
   color: var(--global-text-color);
-  font-family: 'Merriweather', serif 
+  font-family: "Merriweather", serif;
 }
 
 hr {
@@ -72,7 +71,6 @@ blockquote {
   p {
     margin-bottom: 0;
   }
-
 
   /* Tips, warnings, and dangers blockquotes */
   &.block-tip {
@@ -256,7 +254,6 @@ ul.task-list input[type="checkbox"] {
   background-color: var(--global-navbar-bg-color);
   opacity: 0.95;
 }
-
 
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
