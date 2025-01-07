@@ -218,20 +218,12 @@
     {
       "name": "Reference Managers",
       "icon": "fa-solid fa-book-bookmark",
-      "keywords": [
-        "Zotero",
-        "Citavi"
-      ]
+      "keywords": ["Zotero", "Citavi"]
     },
     {
       "name": "Microsoft Office",
       "icon": "fa-brands fa-microsoft",
-      "keywords": [
-        "Microsoft Word",
-        "Microsoft Powerpoint",
-        "Microsoft Teams",
-        "Microsoft Outlook"
-      ]
+      "keywords": ["Microsoft Word", "Microsoft Powerpoint", "Microsoft Teams", "Microsoft Outlook"]
     }
   ],
   "volunteer": [
@@ -243,7 +235,11 @@
       "startDate": "2024-07-01",
       "endDate": "Present",
       "summary": "Executive leader of Germany's only NGO active in lobbying and awareness-raising for the prevention of mass atrocities; prior responsibilities within the organisation:",
-      "highlights": ["Leader of the working group (since November 2021)", "Deputy Chairman (March 2022 - June 2024", "Member of the Working Group (January 2018 - October 2021)"]
+      "highlights": [
+        "Leader of the working group (since November 2021)",
+        "Deputy Chairman (March 2022 - June 2024",
+        "Member of the Working Group (January 2018 - October 2021)"
+      ]
     },
     {
       "organization": "Internationale Beziehungen Dresden e.V.",
