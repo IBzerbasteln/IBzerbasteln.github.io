@@ -15,4 +15,3 @@ title: Invitation to speak at the digital lecture series <i>Heritage & Justice. 
         <p>I was most pleased to learn about this lecture series through an invitation by the organisers to speak at the March session, about restitution claims for fossils. It was just as great of a pleasure to accept, and to be able to invite everyone to <a href="/assets/ics/MfN-talk.ics">save the date</a> for my talk titled <strong>"Distinction Without a Difference? Natural vs. Cultural Heritage in the Spotlight of Restitution Claims"</strong> on 12 March 2025 at 1.00 pm (GMT+1). If you're interested in joining the series, please make sure to register via <a href="mailto:humanities@mfn.berlin">humanities@mfn.berlin</a>.</p>
     </div>
 </div>
- 
