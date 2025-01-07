@@ -1,11 +1,11 @@
 ---
 layout: page
 title: projects and interests
-permalink: /projects/
+permalink: /projects-and-interests/
 description:
 nav: true
 nav_order: 3
-display_categories: [academic, work, personal]
+display_categories: [academic]
 horizontal: false
 ---
 
