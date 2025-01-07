@@ -3,7 +3,7 @@ layout: page
 title: The Law of Human Remains
 description: what is a human being, how does law protect their mortal remains, and why?
 img: assets/img/kabwe-skull.jpg
-importance: 3
+importance: 4
 category: academic
 ---
 
