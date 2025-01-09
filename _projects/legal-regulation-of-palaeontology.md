@@ -15,7 +15,7 @@ related_publications: false
   </div>
   <div class="col-sm-3 mt-3 mt-md-0">
   <figure>
-        {% include figure.liquid path="assets/img/drouot-auction.jpg" title="Remi Mathis, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" alt="The image depicts a dinosaur skeleton displayed at the Hôtel Drouot auction house in Paris." class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/drouot-auction.jpg" title="Remi Mathis, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" alt="The image depicts a dinosaur skeleton displayed at the Hôtel Drouot auction house in Paris." class="img-fluid rounded z-depth-1" zoomable=true %}
     <figcaption class="text-center" style="font-size: 0.9em;">
                 Dinosaur skeletons being put up for auction at Hôtel Drouot (Paris)
             </figcaption>
