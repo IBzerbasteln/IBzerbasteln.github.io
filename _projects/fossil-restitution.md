@@ -5,6 +5,7 @@ description: returning palaeontological objects where they belong
 img: assets/img/publication_preview/ubirajara-repatriation.jpg
 importance: 3
 category: academic
+tabs: true
 ---
 
 Ever since Felwine Sarr and Bénédicte Savoy published their _[Rapport sur la restitution du patrimoine culturel africain](https://web.archive.org/web/20190328181703/http://restitutionreport2018.com/sarr_savoy_en.pdf)_ in 2018, the **issue of restitution** has risen to prominence in the landscape of European museums. Museum staff, civil society, and governments in the Global North and Global South alike continue to negotiate issues of ownership, stewardship, conservation, and justice. What started in the 1960s and 1970s as efforts by newly independent nations and, in parallel, indigenous communities to retrieve their cultural heritage from abroad has now blossomed into perhaps the most prolific discourse in the world of cultural heritage.
@@ -72,7 +73,9 @@ This issue was among the first I encountered when beginning to take an interest 
 
 ## Bibliography
 
-### Academic
+{% tabs bibliography-restitution %}
+
+{% tab bibliography-restitution Academic %}
 
 Cisneros, Juan C., Aline M. Ghilardi, Nussaïbah B. Raja, and Paul P. Stewens. “The Moral and Legal Imperative to Return Illegally Exported Fossils.” _Nature Ecology & Evolution_ 6 (2022): 2–3. [https://doi.org/10.1038/s41559-021-01588-9](https://doi.org/10.1038/s41559-021-01588-9).
 
@@ -84,9 +87,9 @@ Stewens, Paul Philipp. “‘Ubirajara’ and Irritator Belong to Brazil: Achiev
 
 Stewens, Paul P., Nussaïbah B. Raja, and Emma M. Dunne. “The Return of Fossils Removed Under Colonial Rule.” _Santander Art and Culture Law Review_ 8, no. 2 (2022): 89–114. [https://doi.org/10.4467/2450050XSNR.22.013.17026](https://doi.org/10.4467/2450050XSNR.22.013.17026).
 
----
+{% endtab %}
 
-### Examples of fossils being returned
+{% tab bibliography-restitution Examples %}
 
 Anouar, Souad. “Morocco Recovers 56 Million-Year-Old Crocodile Fossil.” _Morocco World News_, March 4, 2022. [https://www.moroccoworldnews.com/2022/03/347428/morocco-recovers-56-million-year-old-crocodile-fossil](https://www.moroccoworldnews.com/2022/03/347428/morocco-recovers-56-million-year-old-crocodile-fossil).
 
@@ -101,5 +104,9 @@ Peduzzi, Pedro. “Belgium to Return Fossil to Brazil.” _Agência Brasil_, Feb
 Pérez Ortega, Rodrigo. “Maned Dinosaur Fossil Will Head Back to Brazil after Controversy over Import to Germany.” _Science_, July 20, 2022. [https://www.science.org/content/article/maned-dinosaur-fossil-will-head-back-to-brazil-after-controversy-over-import-to-germany](https://www.science.org/content/article/maned-dinosaur-fossil-will-head-back-to-brazil-after-controversy-over-import-to-germany).
 
 UNESCO. “The Republic of Korea Returned 11 Dinosaur Fossils to Mongolia,” June 15, 2020. [https://www.unesco.org/en/articles/republic-korea-returned-11-dinosaur-fossils-mongolia](http://web.archive.org/web/20230101005933/https://www.unesco.org/en/articles/republic-korea-returned-11-dinosaur-fossils-mongolia).
+
+{% endtab %}
+
+{% endtabs %}
 
 ---
