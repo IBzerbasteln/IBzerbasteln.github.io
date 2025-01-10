@@ -5,7 +5,7 @@ date: 2024-12-20 20:01:00-0400
 description: Citation keys can level up reference organisation and academic writing in your Second Brain
 tags: Obsidian Zotero Pandoc citations academic-writing
 categories: PKMS
-featured: true
+featured: false
 related_posts: false
 related_publications: false
 citation: false
