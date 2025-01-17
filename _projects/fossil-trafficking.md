@@ -32,7 +32,7 @@ The very notion of illicit trafficking implies the existence of [legal framework
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
     <blockquote>
-    <p>“In a history book about international scientific communities such as natural history museums, collections, and research institutes – still unwritten – one would probably discover that <strong>attempted or realized theft of fossils are often to be found among the behavioural patterns or science institutions</strong>.”<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+    <p>“In a history book about international scientific communities such as natural history museums, collections, and research institutes – still unwritten – one would probably discover that <strong>attempted or realized theft of fossils are often to be found among the behavioural patterns of science institutions</strong>.”<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
     </blockquote>
     </div>
 </div>
