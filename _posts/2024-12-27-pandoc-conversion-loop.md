@@ -81,4 +81,6 @@ This little script fixes an issue many/most people might not even encounter but 
 
 {% endtabs %}
 
+---
+
 #### Footnotes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new chapter
+title: Starting my PhD
 date: 2025-01-02 09:11:00-0400
 inline: false
 related_posts: false

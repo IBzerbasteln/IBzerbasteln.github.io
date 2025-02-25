@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winner of the 2024 Lalive Merryman Fellowship
-date: 2024-11-08 16:11:00-0400
+date: 2025-01-17 15:11:23+0100
 inline: false
 related_posts: false
 ---
@@ -18,10 +18,10 @@ Since 2018, the <a href="https://icps-sibc.org/">International Cultural Property
 
 The Fellowship is valued at CHF 6,000 which are to be used towards a research stay at the Art-Law Centre in Geneva of two to four weeks in the year following the announcement of the winner.
 
-For the current period, the selection committee has chosen my article on the legal remedies for the repatriation of Brazilian fossils from Germany. This is an incredibly generous and prestigious recognition of my work of which I am very proud, and I am most excited about the opportunities and increased visibility for my research that come with it. There are times when I doubt whether taking my work into such a particular and, for the most part, lonely niche - but moments like this reassure me that my research might actually be worthwhile.
+For the current period, the selection committee has [chosen](https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/2024-pierre-lalive-and-john-henry-merryman-fellowship-in-art-and-cultural-heritage-law/6BF63273C68EA58376DC719210AE549B#article) my article on the legal remedies for the repatriation of Brazilian fossils from Germany. This is an incredibly generous and prestigious recognition of my work of which I am very proud, and I am most excited about the opportunities and increased visibility for my research that come with it. There are times when I doubt whether taking my work into such a particular and, for the most part, lonely niche - but moments like this reassure me that my research might actually be worthwhile.
 
 And: Having lived in Geneva for two years during my master's at the Geneva Graduate Institute, I'm very happy about the chance to go back there for a little while for personal reasons, too.
 
-# Reference
+## Reference
 
 {% reference stewens_ubirajara_2023 %}
