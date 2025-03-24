@@ -6,6 +6,7 @@ img: assets/img/publication_preview/black-rex.jpg
 importance: 1
 category: academic
 related_publications: false
+keywords: law, legal, palaeontology, paleonology, regulation, trade, illicit, repatriation, restitution, fossil, dinosaur
 ---
 
 <div class="row justify-content-sm-center">

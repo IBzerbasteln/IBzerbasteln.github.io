@@ -6,6 +6,7 @@ img: assets/img/publication_preview/ubirajara-repatriation.jpg
 importance: 3
 category: academic
 tabs: true
+keywords: restitution, repatration, cultural property, cultural heritage, colonialism, post-colonialism, fossil, Tendaguru, Ubirajara, Irritator, palaeontology, UbirajaraBelongstoBR, IrritatorBelongstoBR, dinosaur
 ---
 
 Ever since Felwine Sarr and Bénédicte Savoy published their _[Rapport sur la restitution du patrimoine culturel africain](https://web.archive.org/web/20190328181703/http://restitutionreport2018.com/sarr_savoy_en.pdf)_ in 2018, the **issue of restitution** has risen to prominence in the landscape of European museums. Museum staff, civil society, and governments in the Global North and Global South alike continue to negotiate issues of ownership, stewardship, conservation, and justice. What started in the 1960s and 1970s as efforts by newly independent nations and, in parallel, indigenous communities to retrieve their cultural heritage from abroad has now blossomed into perhaps the most prolific discourse in the world of cultural heritage.

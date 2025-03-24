@@ -4,6 +4,7 @@ title: Starting my PhD
 date: 2025-01-02 09:11:00-0400
 inline: false
 related_posts: false
+description: As of January 2025, I am officially a PhD candidate at Maastricht University.
 ---
 
 I'm officially a PhD researcher now!

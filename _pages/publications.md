@@ -5,6 +5,7 @@ title: publications
 description:
 nav: true
 nav_order: 2
+keywords: academic, research, publications, journal, law, legal, palaeontology, fossil, dinosaur, international law
 ---
 
 <!-- _pages/publications.md -->

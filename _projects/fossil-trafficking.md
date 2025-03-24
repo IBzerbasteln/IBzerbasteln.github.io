@@ -6,6 +6,7 @@ img: assets/img/publication_preview/irritator-challengeri.jpg
 importance: 2
 category: academic
 tabs: true
+keywords: illicit trafficking, smuggling, black market, grey market, fossil, dinosaur, palaeontology, theft, fossil market, fossil trade, legal, illegal, amber, Myanmar, Burmese amber
 ---
 
 ---

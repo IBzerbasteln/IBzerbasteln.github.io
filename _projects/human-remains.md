@@ -6,6 +6,7 @@ img: assets/img/java-man.jpg
 importance: 4
 category: academic
 tabs: true
+keywords: human remains, corpse, skull, ancestral remains, indigenous, Broken Hill, Kabwe, UNESCO, archaeology, palaeontology, Homo erectus, Neanderthal, restitution, repatriation, Java Man, Dubois
 ---
 
 <div class="row justify-content-sm-center">
