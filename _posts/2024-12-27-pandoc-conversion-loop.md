@@ -4,6 +4,7 @@ title: Keeping Obsidian and MS Word in Sync with Pandoc
 date: 2024-12-26 02:03:12-0400
 description: Annoyed by having to manually convert your .md file over and over again? Here's an easy fix!
 tags: academic-writing Obsidian Pandoc
+keywords: academic-writing, obsidian, pandoc, microsoft-word, microsoft-office, synchronisation, sync, conversion, markdown
 categories: PKMS
 featured: false
 related_posts: false
