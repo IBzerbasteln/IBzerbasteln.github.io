@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: post
 date: 2025-05-02 15:12:00+0100
 inline: true
 ---
