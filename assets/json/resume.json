@@ -5,11 +5,11 @@
     "email": "paulphilippstewens@gmail.com",
     "url": "https://paul-stewens.com",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Bouillonstraat 1-3",
+      "postalCode": "6200 MD",
+      "city": "Maastricht",
+      "countryCode": "NL",
+      "region": "Limburg"
     }
   },
   "education": [
@@ -222,7 +222,7 @@
       "summary": "Executive leader of Germany's only NGO active in lobbying and awareness-raising for the prevention of mass atrocities; prior responsibilities within the organisation:",
       "highlights": [
         "Leader of the working group (since November 2021)",
-        "Deputy Chairman (March 2022 - June 2024",
+        "Deputy Chairman (March 2022 - June 2024)",
         "Member of the Working Group (January 2018 - October 2021)"
       ]
     },
@@ -258,12 +258,17 @@
       "icon": "fa-solid fa-language"
     },
     {
-      "language": "Russian",
+      "language": "Dutch",
       "fluency": "A2",
       "icon": "fa-solid fa-language"
     },
     {
       "language": "Italian",
+      "fluency": "A2",
+      "icon": "fa-solid fa-language"
+    },
+        {
+      "language": "Russian",
       "fluency": "A2",
       "icon": "fa-solid fa-language"
     }
