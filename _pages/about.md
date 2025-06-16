@@ -42,7 +42,6 @@ Prior to coming to Maastricht, I graduated from the Geneva Graduate Institute of
             </iframe>
         </div>
     </div>
-
     <!-- Text Container (40% width) -->
     <div style="flex: 0 0 40%; padding-left: 20px;">
         <p>During my time in Geneva, I got to be a speaker for the <a href="https://tedxgvagrad.com/2023-student-speakers">student corner</a> of the 2023 TED<sup>x</sup>GVAGrad conference titled <a href="https://tedxgvagrad.com/2023-rethink-realities">Rethink Realities</a>. My talk <strong>"Your Favourite Dinosaur Might Be Stolen"</strong> is a fun watch of well under six minutes' duration and the most accessible introduction into what I'm doing academically and why I think it matters. So, I'd be delighted if you gave it a watch!</p>
